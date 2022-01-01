@@ -1,13 +1,14 @@
 * {
     font-family: Verdana; 
+    text-align: center;
 }
 
 body {
     background-color: black;
-    text-align: center;
+    
 }
 
-h1, h2, p {
+h1, h2, p, footer {
     color: white;
 }
 
@@ -33,4 +34,8 @@ p {
 
 video {
     border: white solid 5px;
+}
+
+#footer {
+    text-align: right;
 }
